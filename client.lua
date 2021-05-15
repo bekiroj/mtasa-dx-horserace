@@ -14,9 +14,9 @@ Racing.constructor = function()
 	maxX = 600
 	redX = 0
 	yellowX = 0
+	blueX = 0
 	selected = 'N/A'
 	winner = 'N/A'
-	blueX = 0
 	showCursor(true)
 
 	Racing.render = Timer(
